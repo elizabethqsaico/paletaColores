@@ -1,0 +1,2 @@
+# paletaColores
+Paleta de Colores
